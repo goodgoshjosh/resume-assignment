@@ -1,0 +1,33 @@
+.body{
+}
+
+.title{
+  
+}
+
+.summary{
+
+}
+
+.skills {
+  
+}
+
+#tableskills {
+    table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid black;
+  padding: 5px;
+
+}
+
+.projects {
+  
+}
+
+.experience{
+  
+}
+
+.education
